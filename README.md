@@ -48,6 +48,8 @@ Během šestnácti tříhodinových lekcí si postupně od úplných základů p
  
  ### Lukáš Horák
  
+ - v současné době pracuji jako consultant ve společnosti Adastra, ale s programováním jsem žačal již před dlouhou dobou na základní škole. Měl jsem šteští, že díky práci jsem mohl pracovat v různých kulturách a setkat se s množštvím zajímavých lidí, od kterých jsem se sám mohl hodně naučit. Nyní je idealní příležitost znalosti předat dalším lidem a idealně nadchnout nové studenty.
+ 
  ## Co je to Java
  
  První vydání jazyka se datuje do roku 1995, vývoj však započal na začátku devadesátých let. Jazyk Java byl navržen jako řešení pro vývoj platformně nezávislých programů. Program napsaný v Javě tedy jde spustit na libovolném z podporovaných operačních systémů (na Windows, v Linuxu, MacOS,...). Proto má Java na rozdíl od ostatních jazyků rozdílný způsob překladu a spouštění. Většina jazyků se překládá přímo do sekvence instrukcí dané procesorové platformy, které zapíšeme do souboru (například soubor .exe ve Windows) a následně se tento soubor spouští. Java místo toho vytváří takzvaný bajtkód. To je sekvence instrukcí fiktivního procesoru. Tyto instrukce pak nelze spustit přímo přímo v procesoru počítače — spouští se ve virtuálním stroji, který se nazývá JVM (Java Virtual Machine). Výhodou tohoto přístupu je jeho nezávislost na platformě. Kdekoliv máš k dispozici JVM, můžeš spouštět jakýkoli program v Javě. Zároveň je to omezení — bez JVM program nespustíš.
