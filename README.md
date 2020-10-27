@@ -48,6 +48,10 @@ Během šestnácti tříhodinových lekcí si postupně od úplných základů p
  
  ### Lukáš Horák
  
+  <p align="left">
+  <img src="https://github.com/ENGETO-Java-Akademie/lekce_01/blob/main/lukashorak.png" width="500" height="360">
+</p>
+ 
  - v současné době pracuji jako consultant ve společnosti Adastra, ale s programováním jsem žačal již před dlouhou dobou na základní škole. Měl jsem šteští, že díky práci jsem mohl pracovat v různých kulturách a setkat se s množštvím zajímavých lidí, od kterých jsem se sám mohl hodně naučit. Nyní je idealní příležitost znalosti předat dalším lidem a idealně nadchnout nové studenty.
  
  ## Co je to Java
