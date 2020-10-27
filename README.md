@@ -39,18 +39,14 @@ Během šestnácti tříhodinových lekcí si postupně od úplných základů p
  ### Marek Nedbal
  
  <p align="left">
-  <img src="https://github.com/xthobi/eng_java_01/blob/main/engeto_profile.jpg" width="300" height="400">
+  <img src="https://github.com/ENGETO-Java-Akademie/lekce_01/blob/main/engeto_profile.jpg" width="300" height="400">
 </p>
  
   - živím se jako software engineer a krom krátkého extempore na začátku mé programátorské kariéry programuji již šestým rokem právě v Javě - momentálně pro společnost, o které v rámci Java kurzu ještě nekolikrát uslyšíte - <b>Oracle</b>
   
   - učení je mým koníčkem, který jsem objevil před rokem a máloco mě potěší tak, jako radost studenta, když ho drobnými radami doštouchám k tomu, aby si na řešení problému, na kterém se zasekl, přišel skoro sám
  
- ### Lukáš ???
- 
- -
- 
- -
+ ### Lukáš Horák
  
  ## Co je to Java
  
